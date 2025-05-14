@@ -2,7 +2,7 @@
 
 This project shows you how to build an advanced AI chatbot using **Google Gemini API**, **Python**, and a **Streamlit-based GUI**. The chatbot maintains **conversation history** (context) and provides a clean web interface for user interaction.
 
-🔥 Watch the full tutorial on YouTube: [https://youtube.com/your-video-link](https://youtu.be/suzXINyfi-s)
+🔥 Watch the full tutorial on YouTube: https://youtu.be/m3qGBxz-Gzc
 
 ## 🚀 Features
 - Gemini Pro AI integration via Google API  
